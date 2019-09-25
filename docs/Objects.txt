@@ -1,0 +1,15 @@
+Objekts		 ->       Stāvoklis	   ->      Uzvedība
+
+1. mašīna -> degvielas līmenis -> braukt
+
+2. telefons -> mobīlais tikls -> zvanīt, rakstīt izziņas
+	    
+3. pulksteni -> bultiņas -> radīt laiku
+
+4. mugursoma -> somas dziļums -> nest grāmatas
+
+5. spogulis -> atspoguļošana -> radīt sēju
+
+6. dators -> procesors, atmiņa, videokarte -> pildīt md
+
+7. 
