@@ -4,12 +4,15 @@ Objekts		 ->       Stāvoklis	   ->      Uzvedība
 
 2. telefons -> mobīlais tikls -> zvanīt, rakstīt izziņas
 	    
-3. pulksteni -> bultiņas -> radīt laiku
+3. pulksteni -> bultiņas -> radīt laiku     //bultiņu novietojums būs kā stāvokļa rādītājs, uzvedība varētu būt "uzlādēšana" vai "uzgriešana"
 
-4. mugursoma -> somas dziļums -> nest grāmatas
+4. mugursoma -> somas dziļums -> nest grāmatas  //soma pati nenes grāmatas. Uzvedība varētu būt "atvērt kabatu"
 
-5. spogulis -> atspoguļošana -> radīt sēju
+5. spogulis -> atspoguļošana -> radīt sēju   //stāvoklis varētu būt - tīrs vai vetīrs, vai piemēram tonēts, liekts utt. Darbība - "spoguļoties" :)
 
-6. dators -> procesors, atmiņa, videokarte -> pildīt md
+6. dators -> procesors, atmiņa, videokarte -> pildīt md  //  pats dators mājas darbu nepilda, bet ievadīt tekstu gan ļauj
 
 7. 
+
+
+//Ok
