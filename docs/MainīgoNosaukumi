@@ -1,0 +1,40 @@
+1. Kuģu daudzums ostā - shipQuantIn
+
+2. Veselu skaitļu skaitītājs - intCounter
+
+3. Pirmais skaitlis - firstNum
+
+4. Atbilde uz jautājumu - answer
+
+5. Izlases numurs - randomNum
+
+6. Izlases numuru generators - randomNumGen
+
+7. Automašīnas krāsa - carColor
+
+8. Automašīnas pārvietošanas ātrums - carSpeed
+
+9. Lietotāja ievadītas skaitlis - userEnteredNum
+
+10. Lielākais skaitlis - maxNum
+
+11. Mazākais skaitlis - minNum
+
+12. Skaitļu diapazona kreisā mala - numRangeLeft
+
+13. Skaitļu diapazona labā mala - numRangeRight
+
+14. Lietotāja iedomātais skaitlis - userImaginaryNum
+
+15. Atbildes variants - answOption
+
+16. Bankas konts - bankAccount
+
+17. Naudas daudzums uz konta - moneyLeftAccount
+
+18. Bankas kredītkarte - bankCreditCard
+
+19. Velosipēda riteņu daudzums - bicycleWheelQuant
+
+
+
