@@ -1,7 +1,7 @@
 package lv.jg.lesson1;
 
 public class HelloWorld {
-        public static void main (String[] args) {
-            System.out.print("Hello World!");
+    public static void main (String[] args) {
+        System.out.print("Hello, JavaGuru World!");
         }
 }
