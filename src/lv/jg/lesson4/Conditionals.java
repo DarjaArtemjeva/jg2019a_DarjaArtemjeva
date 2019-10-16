@@ -18,6 +18,17 @@ public class Conditionals {
         if (isNotInBoundsExcept10(x)) {
             System.out.println("X is 10");
         }
+        if (x == 10)
+            System.out.println("X is ten");
+        else if (x == 11)
+            System.out.println("X is eleven");
+        else
+            System.out.println("X is something else");
+
+        String message = x == 10
+                ? "x is TEN"
+                : "x is NOT TEN";
+        System.out.println(message);
     }
 
     private static boolean isNotInBoundsExcept10(int x) {
