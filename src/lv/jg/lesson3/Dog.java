@@ -47,5 +47,9 @@ public class Dog {
     public void sleep () {
         System.out.println("ZzzZzz...");
     }
+    public void setColor(Color color) {
+        this.color = color;
+
+    }
 }
 

@@ -8,7 +8,10 @@ public class DogTest {
 
     public static void main(String[] args){
 
+        Dog bob = new Dog ("Bob", Color.BEIGE);
+
         Dog rex = new Dog("Rex", 2015);
+        rex.setColor(java.awt.Color.black);
         rex.eat();
         rex.sleep();
         rex.voice();
