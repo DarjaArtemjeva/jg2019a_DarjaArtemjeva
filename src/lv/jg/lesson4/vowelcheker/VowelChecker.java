@@ -5,7 +5,12 @@ public class VowelChecker {
 
    // }
         public boolean isVowel(char sign) {
-    if (sign == 'A' || sign=='E') {
+    if (sign == 'A'
+            || sign=='E'
+            || sign=='I'
+            || sign=='O'
+            || sign=='U'
+            || sign=='E') {
         return true;
     } else {
         return false;
