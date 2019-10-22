@@ -2,6 +2,7 @@ package lv.jg.homeWork;
 
 import java.util.Scanner;
 
+//Ok
 public class CircleTest {
     public static void main(String[] args) {
 
