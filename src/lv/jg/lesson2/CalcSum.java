@@ -1,5 +1,6 @@
 package lv.jg.lesson2;
 
+//Ok
 public class CalcSum {
     public static void main(String[] args) {
         int firstOperand = 15;
