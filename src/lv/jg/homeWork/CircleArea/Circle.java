@@ -1,4 +1,4 @@
-package lv.jg.homeWork;
+package lv.jg.homeWork.CircleArea;
 
 //Ok
 public class Circle {

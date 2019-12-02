@@ -1,4 +1,6 @@
-package lv.jg.homeWork;
+package lv.jg.homeWork.CircleArea;
+
+import lv.jg.homeWork.CircleArea.Circle;
 
 import java.util.Scanner;
 
