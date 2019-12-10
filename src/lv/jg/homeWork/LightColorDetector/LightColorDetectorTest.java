@@ -2,6 +2,7 @@ package lv.jg.homeWork.LightColorDetector;
 
 import java.util.Scanner;
 
+//Ok
 public class LightColorDetectorTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,5 +1,6 @@
 package lv.jg.homeWork.Book;
 
+//Ok
 public class Book {
     private String author;
     private String title;
