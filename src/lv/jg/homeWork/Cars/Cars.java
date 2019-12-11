@@ -1,5 +1,6 @@
 package lv.jg.homeWork.Cars;
 
+//Ok
 public class Cars {
     protected String logo;
     protected String color;
