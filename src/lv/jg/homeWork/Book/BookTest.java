@@ -1,5 +1,5 @@
 package lv.jg.homeWork.Book;
-
+//OK
 public class BookTest {
     public static void main(String[] args) {
         Book firstBook = new Book("Steven King ", "IT ", 333);

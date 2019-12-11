@@ -1,6 +1,6 @@
 package lv.jg.homeWork.LightColorDetector;
 
-import java.util.Scanner;
+import java.util.Scanner; //lieks imports - delete
 
 public class LightColorDetector {
     public String detect(int waveLength) {
@@ -21,6 +21,7 @@ public class LightColorDetector {
         }
     }
 
+    //main metode šeit nav neieciešama
     public static void main(String[] args) {
 
     }
